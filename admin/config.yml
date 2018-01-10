@@ -9,13 +9,13 @@ collections:
     name: "spanish_posts"
     folder: "content/_posts/es"
     create: true
-    permalink: "/es/artículos/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     filter: {field: "language", value: "es"}
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/es/artículos/{{slug}}"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -24,13 +24,13 @@ collections:
     name: "english_posts"
     folder: "content/_posts/en"
     create: true
-    permalink: "/en/articles/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     filter: {field: "language", value: "en"}
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/en/articles/{{slug}}"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -39,13 +39,13 @@ collections:
     name: "deutsch_posts"
     folder: "content/_posts/de"
     create: true
-    permalink: "/es/artikel/{{slug}}"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     filter: {field: "language", value: "de"}
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/de/artikel/{{slug}}"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - {label: "Body", name: "body", widget: "markdown"}
