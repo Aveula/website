@@ -1,9 +1,6 @@
 ---
 title: Entrevista a Iñaki García
-date: 2016-04-05
-author: javier
-tags:
- - entrevistas
+date: 2016-04-05T00:00:00.000Z
 image: /assets/images/uploads/iñaki-garcia.jpg
 language: es
 ---
