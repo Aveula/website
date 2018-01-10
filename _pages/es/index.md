@@ -8,4 +8,5 @@ head-includes:
 foot-includes:
   - netlify-redirection.html
 language: es
+permalink: /es
 ---

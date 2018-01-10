@@ -30,6 +30,8 @@ markdown: kramdown
 remote_theme: Aveula/twd-jt-aveula
 plugins:
   - jekyll-feed
+include:
+  - _pages
 
 # Collections
 colelctions_dir: content
