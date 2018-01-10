@@ -6,5 +6,5 @@ layout: home
 head-includes:
   - netlify-identity-widget.html
 foot-includes:
-  -netlify-redirection.html
+  - netlify-redirection.html
 ---
