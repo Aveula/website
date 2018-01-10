@@ -49,3 +49,22 @@ collections:
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "data"
+    label: "Data"
+    files:
+      - label: "Menú principal"
+        name: "mainMenu"
+        file: "_data/main-menu.yml"
+        fields:
+          - label: Items
+            name: items
+            widget: "list"
+            fields:
+              - {label: Language, name: lang,widget: string}
+              - label: Item
+                name: item
+                widget: list
+                fields:
+                  - {label: Title, name: title, widget: string}
+                  - {label: Url, name: url, widget: string}
