@@ -5,6 +5,6 @@
 layout: home
 head-includes:
   - netlify-identity-widget.html
-foor-includes:
-  - netlify-redirection.html
+foot-includes:
+  -netlify-redirection.html
 ---
