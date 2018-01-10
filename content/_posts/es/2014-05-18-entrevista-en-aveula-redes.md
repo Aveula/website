@@ -1,11 +1,11 @@
 ---
 title: Entrevista en Aveula Redes
-date: 2014-05-18
-author: eider
-tags:
- - entrevistas
+date: 2014-05-18T00:00:00.000Z
 image: /assets/images/uploads/jclaveras.jpg
 language: es
+categories:
+  - es
+  - artículos
 ---
 
 Martes, 8 de abril. Día lluvioso, temporal en toda regla. Gracias a Dios, me desplazo hasta la sede que AVEULA REDES tiene en la calle San Marcial, que al ser un sitio céntrico, me voy resguardando de las inclemencias del tiempo por las calles adyacentes hasta entrar en su lujoso portal.
