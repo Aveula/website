@@ -2,13 +2,10 @@
 title: Entrevista a Haizea Mendioroz
 date: 2015-05-29
 author: javier
-category:
- - artículos
 tags:
  - entrevistas
-image: haizea-mendioroz.jpg
+image: /assets/images/uploads/haizea-mendioroz.jpg
 language: es
-permalink: /es/:categories/:title
 ---
 
 En esta ocasión, entrevistamos a Haizea Mendioroz, estudiante de **ISSA School of Management Assistants de la Universidad de Navarra**, la cual está realizando sus prácticas curriculares desde hace cinco meses en AVEULA REDES.

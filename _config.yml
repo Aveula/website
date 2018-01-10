@@ -30,7 +30,16 @@ markdown: kramdown
 remote_theme: Aveula/twd-jt-aveula
 plugins:
   - jekyll-feed
+
+# Collections
 colelctions_dir: content
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: /blog/:title
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

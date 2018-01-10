@@ -2,13 +2,10 @@
 title: Entrevista a Iñaki García
 date: 2016-04-05
 author: javier
-category:
- - artículos
 tags:
  - entrevistas
-image: iñaki-garcia.jpg
+image: /assets/images/uploads/iñaki-garcia.jpg
 language: es
-permalink: /es/:categories/:title
 ---
 
 ¿Qué cree Usted que pasa cuando una empresa mediana no tiene una página web o no está actualizada?

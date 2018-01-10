@@ -2,13 +2,10 @@
 title: Entrevista a Uxue Mendizábal
 date: 2015-02-07
 author: javier
-category:
- - artículos
 tags:
  - entrevistas
-image: uxue-mendizabal.png
+image: /assets/images/uploads/uxue-mendizabal.jpg
 language: es
-permalink: /es/:categories/:title
 ---
 
 Comentas en una de tus publicaciones en el blog de [aHrt &amp; Co](http://www.ahrt.eu/blog), que la recesión ha hecho que las empresas tiendan más a la externalización de servicios (*outsourcing*{:lang="en"}) para mejorar su eficiencia y que esto les ha permitido conocer sus ventajas. ¿Podrías enumerar cuáles son para ti las más significativas?
