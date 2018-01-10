@@ -3,9 +3,8 @@ title: Presente y futuro del mercado inmobiliario en la Sosta del Sol
 date: 2014-09-05T00:00:00.000Z
 image: /assets/images/uploads/rocio-rodriguez.jpg
 language: es
-categories:
-  - es
-  - artículos
+tags:
+  - entrevistas
 ---
 
 En esta ocasión queremos poner a su disposición la entrevista que hemos efectuado a una de nuestras más valiosas colaboradoras, Rocío Rodriguez  Delegada de la Agencia **STAND MARBELLA**, una profesional que lleva más de 30 años en el ejercicio de su profesión en la Costa del Sol y que nos habla de su **visión del Sector Inmobiliario en su zona** y cómo ha evolucionado el cliente que compra este tipo de activos.
