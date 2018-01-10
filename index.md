@@ -3,4 +3,8 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+head-includes:
+  - netlify-identity-widget.html
+foor-includes:
+  - netlify-redirection.html
 ---
