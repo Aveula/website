@@ -72,7 +72,7 @@ collections:
                   - {label: Title, name: title, widget: string}
                   - {label: Url, name: url, widget: string}
 
-  - label: "Tarifas en Español"
+  - label: "Tarifa en Español"
     name: "spanish_pricing"
     folder: "content/_trarifas/es"
     create: true
@@ -80,7 +80,7 @@ collections:
     filter: {field: "language", value: "es"}
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Price", name: "price", widget: "number", default: 0, valueType: "float", min: 0}
+      - {label: "Price", name: "price", widget: "string"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - label: Item
         name: item
@@ -96,7 +96,7 @@ collections:
     filter: {field: "language", value: "en"}
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Price", name: "price", widget: "number", default: 0, valueType: "float", min: 0}
+      - {label: "Price", name: "price", widget: "string"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - label: Item
         name: item
@@ -112,7 +112,7 @@ collections:
     filter: {field: "language", value: "de"}
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Price", name: "price", widget: "number", default: 0, valueType: "float", min: 0}
+      - {label: "Price", name: "price", widget: "string"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - label: Item
         name: item
