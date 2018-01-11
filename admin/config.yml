@@ -157,6 +157,7 @@ collections:
         widget: list
         fields:
           - label: "Paquete"
+            name: "paquete"
             widget: "relation"
             collection: "tarifas"
             searchFields: "[title]"
@@ -179,6 +180,7 @@ collections:
         widget: list
         fields:
           - label: "Paquete"
+            name: "paquete"
             widget: "relation"
             collection: "tarifas"
             searchFields: "[title]"
@@ -201,6 +203,7 @@ collections:
         widget: list
         fields:
           - label: "Paquete"
+            name: "paquete"
             widget: "relation"
             collection: "tarifas"
             searchFields: "[title]"
