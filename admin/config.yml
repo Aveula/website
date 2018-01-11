@@ -150,6 +150,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "permalink", name: "permalink", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - label: "Paquetes"
@@ -171,6 +172,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "permalink", name: "permalink", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - label: "Paquetes"
@@ -192,6 +194,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "permalink", name: "permalink", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - label: "Paquetes"
