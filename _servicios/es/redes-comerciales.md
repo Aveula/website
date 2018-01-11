@@ -6,6 +6,10 @@ language: es
 paquetes:
   - Creación
   - Crecimiento
+  - Consolidación
+  - Compromiso
+  - Adquiere
+  - Adquiere Plus
 contratacion: >-
   El tiempo de resolución de los paquetes varía en función de su complejidad y
   objetivos. La respuesta a la aceptación de un paquete concreto se produce en
