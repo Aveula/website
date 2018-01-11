@@ -7,7 +7,7 @@ media_folder: "assets/images/uploads"
 collections:
   - label: "Blog en Español"
     name: "spanish_posts"
-    folder: "content/_posts/es"
+    folder: "_posts/es"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     filter: {field: "language", value: "es"}
@@ -23,7 +23,7 @@ collections:
 
   - label: "Blog en Inglés"
     name: "english_posts"
-    folder: "content/_posts/en"
+    folder: "_posts/en"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     filter: {field: "language", value: "en"}
@@ -39,7 +39,7 @@ collections:
 
   - label: "Blog en Alemán"
     name: "deutsch_posts"
-    folder: "content/_posts/de"
+    folder: "_posts/de"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     filter: {field: "language", value: "de"}
@@ -74,7 +74,7 @@ collections:
 
   - label: "Tarifa en Español"
     name: "spanish_pricing"
-    folder: "content/_trarifas/es"
+    folder: "_trarifas/es"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "es"}
@@ -97,7 +97,7 @@ collections:
 
   - label: "Tarifas en Inglés"
     name: "english_pricing"
-    folder: "content/_trarifas/en"
+    folder: "_trarifas/en"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "en"}
@@ -120,7 +120,7 @@ collections:
 
   - label: "Tarifas en Alemán"
     name: "deutsch_pricing"
-    folder: "content/_trarifas/de"
+    folder: "_trarifas/de"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "de"}
@@ -143,7 +143,7 @@ collections:
 
   - label: "Servicios en Español"
     name: "spanish_services"
-    folder: "content/_servicios/es"
+    folder: "_servicios/es"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "es"}
@@ -165,7 +165,7 @@ collections:
 
   - label: "Servicios en Inglés"
     name: "english_services"
-    folder: "content/_servicios/en"
+    folder: "_servicios/en"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "en"}
@@ -187,7 +187,7 @@ collections:
 
   - label: "Servicios en Alemán"
     name: "deutsch_services"
-    folder: "content/_servicios/de"
+    folder: "_servicios/de"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "de"}
