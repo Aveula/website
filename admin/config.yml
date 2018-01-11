@@ -156,10 +156,6 @@ collections:
       - label: "Paquetes"
         name: "paquetes"
         widget: list
-        fields:
-          - label: "Paquete"
-            name: "paquete"
-            widget: "string"
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Contratación", name: "contratacion", widget: "markdown"}
 
@@ -178,10 +174,6 @@ collections:
       - label: "Paquetes"
         name: "paquetes"
         widget: list
-        fields:
-          - label: "Paquete"
-            name: "paquete"
-            widget: "string"
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Contratación", name: "contratacion", widget: "markdown"}
 
@@ -200,9 +192,5 @@ collections:
       - label: "Paquetes"
         name: "paquetes"
         widget: list
-        fields:
-          - label: "Paquete"
-            name: "paquete"
-            widget: "string"
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Contratación", name: "contratacion", widget: "markdown"}
