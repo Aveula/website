@@ -34,10 +34,11 @@ include:
   - _pages
 
 # Collections
-colelctions_dir: content
+#colelctions_dir: content
 collections:
-  - tarifas
-  - servicios
+  tarifas:
+  servicios:
+    output: true
 defaults:
   - scope:
       path: ""
@@ -50,6 +51,7 @@ defaults:
       type: servicios
     values:
       layout: service
+      hide_content: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
