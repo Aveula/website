@@ -36,9 +36,9 @@ include:
 # Collections
 colelctions_dir: content
 collections:
-  - tarifas
-  - servicios
-      output: true
+  tarifas:
+  servicios:
+    output: true
 defaults:
   - scope:
       path: ""
