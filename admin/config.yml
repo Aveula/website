@@ -82,6 +82,14 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Price", name: "price", widget: "string"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+      - label: "Tarifa incluida"
+        name: "price_included"
+        widget: "relation"
+        collection: "tarifas"
+        filter: {field: "language", value: "es"}
+        required: false
+        searchFields: "[title]"
+        valueField: "title"
       - label: Item
         name: item
         widget: list
@@ -98,6 +106,14 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Price", name: "price", widget: "string"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+      - label: "Tarifa incluida"
+        name: "price_included"
+        widget: "relation"
+        collection: "tarifas"
+        filter: {field: "language", value: "en"}
+        required: false
+        searchFields: "[title]"
+        valueField: "title"
       - label: Item
         name: item
         widget: list
@@ -114,6 +130,14 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Price", name: "price", widget: "string"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+      - label: "Tarifa incluida"
+        name: "price_included"
+        widget: "relation"
+        collection: "tarifas"
+        filter: {field: "language", value: "de"}
+        required: false
+        searchFields: "[title]"
+        valueField: "title"
       - label: Item
         name: item
         widget: list
