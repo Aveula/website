@@ -15,29 +15,21 @@ contratacion: >-
   objetivos. La respuesta a la aceptación de un paquete concreto se produce en
   un periodo de tiempo no superior a 72 horas.
 
-
   Una vez aceptada la solicitud por parte de AVEULA, el cliente tiene que
   desembolsar el 50% del importe del paquete, dejando el otro 50% a la recepción
   del mismo.
 
-
   El proceso es el siguiente:
 
-
   1. El cliente ve un paquete que le insteresa en la página web.
-
   2. Accede a la ventana de solicitar mayor información, ahí debe dejar sus
   datos y una breve descripción de lo que le interesa.
-
   3. AVEULA se pone en contacto con él, amplía información y puntualiza en
   chequeo las necesidades totales y los costes asociados al servicio.
-
   4. AVEULA en 72 horas confirma la solicitud al cliente, bien de forma positiva
   o negativa.
-
   5. El cliente a la recepción de la confirmación positiva emite transferencia
   del 50% del coste indicado en dicha solicitud.
-
   6. AVEULA a la recepción del importe se pone en marcha, iniciando la
   formalización del paquete.
 ---
