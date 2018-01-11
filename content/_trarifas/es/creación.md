@@ -1,6 +1,6 @@
 ---
 title: Creación
-price: 1500€
+price: 1.500€
 language: es
 item:
   - description: Dar de alta Nombre Empresa
