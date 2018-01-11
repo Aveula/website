@@ -1,6 +1,7 @@
 ---
 title: Entrevista a Haizea Mendioroz
 date: 2015-05-29T00:00:00.000Z
+author: Javier Claveras
 image: /assets/images/uploads/haizea-mendioroz.jpg
 language: es
 tags:
