@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Redes Comerciales
 permalink: /es/servicios/redes-comerciales
 image: /assets/images/uploads/redes-comerciales.jpg
