@@ -86,7 +86,6 @@ collections:
         name: "price_included"
         widget: "relation"
         collection: "tarifas"
-        filter: {field: "language", value: "es"}
         required: false
         searchFields: "[title]"
         valueField: "title"
@@ -110,7 +109,6 @@ collections:
         name: "price_included"
         widget: "relation"
         collection: "tarifas"
-        filter: {field: "language", value: "en"}
         required: false
         searchFields: "[title]"
         valueField: "title"
@@ -134,7 +132,6 @@ collections:
         name: "price_included"
         widget: "relation"
         collection: "tarifas"
-        filter: {field: "language", value: "de"}
         required: false
         searchFields: "[title]"
         valueField: "title"
