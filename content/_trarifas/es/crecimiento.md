@@ -2,6 +2,7 @@
 title: Crecimiento
 price: 3.000€
 language: es
+order: 2
 price_included:
   - name: Creación
 item:
