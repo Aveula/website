@@ -72,7 +72,7 @@ collections:
                   - {label: Title, name: title, widget: string}
                   - {label: Url, name: url, widget: string}
 
-  - label: "Tarifa en Español"
+  - label: "Tarifas en Español"
     name: "spanish_pricing"
     folder: "_tarifas/es"
     create: true
