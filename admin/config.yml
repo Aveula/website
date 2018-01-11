@@ -74,7 +74,7 @@ collections:
 
   - label: "Tarifa en Español"
     name: "spanish_pricing"
-    folder: "_trarifas/es"
+    folder: "_tarifas/es"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "es"}
@@ -97,7 +97,7 @@ collections:
 
   - label: "Tarifas en Inglés"
     name: "english_pricing"
-    folder: "_trarifas/en"
+    folder: "_tarifas/en"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "en"}
@@ -120,7 +120,7 @@ collections:
 
   - label: "Tarifas en Alemán"
     name: "deutsch_pricing"
-    folder: "_trarifas/de"
+    folder: "_tarifas/de"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "de"}
