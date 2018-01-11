@@ -1,6 +1,7 @@
 ---
 title: Entrevista en Aveula Redes
 date: 2014-05-18T00:00:00.000Z
+author: Eider Serrano
 image: /assets/images/uploads/jclaveras.jpg
 language: es
 tags:
