@@ -80,7 +80,6 @@ collections:
     filter: {field: "language", value: "es"}
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Author", name: "author", widget: "string"}
       - {label: "Price", name: "price", widget: "number", default: 0, valueType: "float", min: 0}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - label: Item
@@ -88,3 +87,74 @@ collections:
         widget: list
         fields:
           - {label: "Description", name: "description", widget: string}
+
+  - label: "Tarifas en Inglés"
+    name: "english_pricing"
+    folder: "content/_trarifas/en"
+    create: true
+    slug: "{{slug}}"
+    filter: {field: "language", value: "en"}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Price", name: "price", widget: "number", default: 0, valueType: "float", min: 0}
+      - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+      - label: Item
+        name: item
+        widget: list
+        fields:
+          - {label: "Description", name: "description", widget: string}
+
+  - label: "Tarifas en Alemán"
+    name: "deutsch_pricing"
+    folder: "content/_trarifas/de"
+    create: true
+    slug: "{{slug}}"
+    filter: {field: "language", value: "de"}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Price", name: "price", widget: "number", default: 0, valueType: "float", min: 0}
+      - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+      - label: Item
+        name: item
+        widget: list
+        fields:
+          - {label: "Description", name: "description", widget: string}
+
+  - label: "Servicios en Español"
+    name: "spanish_services"
+    folder: "content/_servicios/es"
+    create: true
+    slug: "{{slug}}"
+    filter: {field: "language", value: "es"}
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - label: "Servicios en Inglés"
+    name: "english_services"
+    folder: "content/_servicios/en"
+    create: true
+    slug: "{{slug}}"
+    filter: {field: "language", value: "en"}
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - label: "Servicios en Alemán"
+    name: "deutsch_services"
+    folder: "content/_servicios/de"
+    create: true
+    slug: "{{slug}}"
+    filter: {field: "language", value: "de"}
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+      - {label: "Body", name: "body", widget: "markdown"}
