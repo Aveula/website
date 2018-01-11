@@ -160,7 +160,7 @@ collections:
             name: "paquete"
             widget: "string"
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Contratación", name: "contact", widget: "markdown"}
+      - {label: "Contratación", name: "contratacion", widget: "markdown"}
 
   - label: "Servicios en Inglés"
     name: "english_services"
@@ -181,7 +181,7 @@ collections:
             name: "paquete"
             widget: "string"
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Contratación", name: "contact", widget: "markdown"}
+      - {label: "Contratación", name: "contratacion", widget: "markdown"}
 
   - label: "Servicios en Alemán"
     name: "deutsch_services"
@@ -202,4 +202,4 @@ collections:
             name: "paquete"
             widget: "string"
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Contratación", name: "contact", widget: "markdown"}
+      - {label: "Contratación", name: "contratacion", widget: "markdown"}
