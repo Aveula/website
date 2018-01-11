@@ -155,12 +155,12 @@ collections:
       - label: "Paquetes"
         name: "paquetes"
         widget: list
-          fields:
-            - label: "Paquete"
-              widget: "relation"
-              collection: "tarifas"
-              searchFields: "[title]"
-              valueField: "title"
+        fields:
+          - label: "Paquete"
+            widget: "relation"
+            collection: "tarifas"
+            searchFields: "[title]"
+            valueField: "title"
       - {label: "Body", name: "body", widget: "markdown"}
 
   - label: "Servicios en Inglés"
@@ -177,12 +177,12 @@ collections:
       - label: "Paquetes"
         name: "paquetes"
         widget: list
-          fields:
-            - label: "Paquete"
-              widget: "relation"
-              collection: "tarifas"
-              searchFields: "[title]"
-              valueField: "title"
+        fields:
+          - label: "Paquete"
+            widget: "relation"
+            collection: "tarifas"
+            searchFields: "[title]"
+            valueField: "title"
       - {label: "Body", name: "body", widget: "markdown"}
 
   - label: "Servicios en Alemán"
@@ -199,10 +199,10 @@ collections:
       - label: "Paquetes"
         name: "paquetes"
         widget: list
-          fields:
-            - label: "Paquete"
-              widget: "relation"
-              collection: "tarifas"
-              searchFields: "[title]"
-              valueField: "title"
+        fields:
+          - label: "Paquete"
+            widget: "relation"
+            collection: "tarifas"
+            searchFields: "[title]"
+            valueField: "title"
       - {label: "Body", name: "body", widget: "markdown"}
