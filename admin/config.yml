@@ -152,6 +152,15 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+      - label: "Paquetes"
+        name: "paquetes"
+        widget: list
+          fields:
+            - label: "Paquete"
+              widget: "relation"
+              collection: "tarifas"
+              searchFields: "[title]"
+              valueField: "title"
       - {label: "Body", name: "body", widget: "markdown"}
 
   - label: "Servicios en Inglés"
@@ -165,6 +174,15 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+      - label: "Paquetes"
+        name: "paquetes"
+        widget: list
+          fields:
+            - label: "Paquete"
+              widget: "relation"
+              collection: "tarifas"
+              searchFields: "[title]"
+              valueField: "title"
       - {label: "Body", name: "body", widget: "markdown"}
 
   - label: "Servicios en Alemán"
@@ -178,4 +196,13 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+      - label: "Paquetes"
+        name: "paquetes"
+        widget: list
+          fields:
+            - label: "Paquete"
+              widget: "relation"
+              collection: "tarifas"
+              searchFields: "[title]"
+              valueField: "title"
       - {label: "Body", name: "body", widget: "markdown"}
