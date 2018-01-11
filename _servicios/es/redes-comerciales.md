@@ -4,12 +4,8 @@ permalink: /es/servicios/redes-comerciales
 image: /assets/images/uploads/redes-comerciales.jpg
 language: es
 paquetes:
-  - paquete: Creación
-  - paquete: Crecimiento
-  - paquete: Consolidación
-  - paquete: Compromiso
-  - paquete: Adquiere
-  - paquete: Adquiere Plus
+  - Creación
+  - Crecimiento
 contratacion: >-
   El tiempo de resolución de los paquetes varía en función de su complejidad y
   objetivos. La respuesta a la aceptación de un paquete concreto se produce en
