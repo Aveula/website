@@ -10,7 +10,7 @@ paquetes:
   - paquete: Compromiso
   - paquete: Adquiere
   - paquete: Adquiere Plus
-contact: >-
+contratacion: >-
   El tiempo de resolución de los paquetes varía en función de su complejidad y
   objetivos. La respuesta a la aceptación de un paquete concreto se produce en
   un periodo de tiempo no superior a 72 horas.
