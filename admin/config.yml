@@ -159,7 +159,7 @@ collections:
           - label: "Paquete"
             name: "paquete"
             widget: "relation"
-            collection: "tarifas"
+            collection: "spanish_pricing"
             searchFields: "[title]"
             valueField: "title"
       - {label: "Body", name: "body", widget: "markdown"}
@@ -182,7 +182,7 @@ collections:
           - label: "Paquete"
             name: "paquete"
             widget: "relation"
-            collection: "tarifas"
+            collection: "english_pricing"
             searchFields: "[title]"
             valueField: "title"
       - {label: "Body", name: "body", widget: "markdown"}
@@ -205,7 +205,7 @@ collections:
           - label: "Paquete"
             name: "paquete"
             widget: "relation"
-            collection: "tarifas"
+            collection: "deutsch_pricing"
             searchFields: "[title]"
             valueField: "title"
       - {label: "Body", name: "body", widget: "markdown"}
