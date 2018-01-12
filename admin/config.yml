@@ -203,3 +203,31 @@ collections:
         widget: list
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - label: "Franquicias"
+    name: "franquicias"
+    folder: "_franquicias"
+    slug: {{ slug }}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+
+  - label: "Negocios"
+    name: "negocios"
+    folder: "_negocios"
+    slug: {{ slug }}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+
+  - label: "Trabajos"
+    name: "trabajos"
+    folder: "_trabajos"
+    slug: {{ slug }}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+
+  - label: "Traspasos"
+    name: "traspasos"
+    folder: "_traspasos"
+    slug: {{ slug }}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
