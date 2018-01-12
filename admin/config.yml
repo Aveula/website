@@ -81,6 +81,7 @@ collections:
             widget: "list"
             fields:
               - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+              - {label: "Title", name: "title", widget: "string"}
               - {label: Texto, name: texto, widget: markdown}
 
   - label: "Tarifas en Español"
