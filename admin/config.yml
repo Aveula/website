@@ -71,6 +71,7 @@ collections:
                 fields:
                   - {label: Title, name: title, widget: string}
                   - {label: Url, name: url, widget: string}
+                  
       - label: "Contratación"
         name: "contratacion"
         file: "_data/contratacion.yml"
