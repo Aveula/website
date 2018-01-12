@@ -82,7 +82,6 @@ collections:
               - {label: Language, name: lang, widget: string}
               - {label: Texto, name: texto, widget: markdown}
 
-
   - label: "Tarifas en Español"
     name: "spanish_pricing"
     folder: "_tarifas/es"
