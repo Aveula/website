@@ -207,6 +207,7 @@ collections:
   - label: "Franquicias"
     name: "franquicias"
     folder: "_franquicias"
+    create: true
     slug: {{ slug }}
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -214,6 +215,7 @@ collections:
   - label: "Negocios"
     name: "negocios"
     folder: "_negocios"
+    create: true
     slug: {{ slug }}
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -221,6 +223,7 @@ collections:
   - label: "Trabajos"
     name: "trabajos"
     folder: "_trabajos"
+    create: true
     slug: {{ slug }}
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -228,6 +231,7 @@ collections:
   - label: "Traspasos"
     name: "traspasos"
     folder: "_traspasos"
+    create: true
     slug: {{ slug }}
     fields:
       - {label: "Title", name: "title", widget: "string"}
