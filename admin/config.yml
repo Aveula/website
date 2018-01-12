@@ -75,10 +75,13 @@ collections:
       - label: "Contratación"
         name: "contratacion"
         file: "_data/contratacion.yml"
-        widget: "list"
         fields:
-          - {label: Language, name: lang, widget: string}
-          - {label: Texto, name: texto, widget: markdown}
+          - label: Items
+            name: items
+            widget: "list"
+            fields:
+              - {label: Language, name: lang, widget: string}
+              - {label: Texto, name: texto, widget: markdown}
 
 
   - label: "Tarifas en Español"
