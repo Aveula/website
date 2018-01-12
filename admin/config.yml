@@ -92,7 +92,7 @@ collections:
     filter: {field: "language", value: "es"}
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Price", name: "price", widget: "string"}
+      - {label: "Price", name: "price", widget: "string", required: false}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - {label: "Orden", name: "order", widget: "number", default: 0, valueType: "int"}
       - label: "Tarifas incluidas"
@@ -115,7 +115,7 @@ collections:
     filter: {field: "language", value: "en"}
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Price", name: "price", widget: "string"}
+      - {label: "Price", name: "price", widget: "string", required: false}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - {label: "Orden", name: "order", widget: "number", default: 0, valueType: "int"}
       - label: "Tarifas incluidas"
@@ -138,7 +138,7 @@ collections:
     filter: {field: "language", value: "de"}
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Price", name: "price", widget: "string"}
+      - {label: "Price", name: "price", widget: "string", required: false}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - {label: "Orden", name: "order", widget: "number", default: 0, valueType: "int"}
       - label: "Tarifas incluidas"
