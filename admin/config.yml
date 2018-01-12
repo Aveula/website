@@ -71,7 +71,6 @@ collections:
                 fields:
                   - {label: Title, name: title, widget: string}
                   - {label: Url, name: url, widget: string}
-
       - label: "Contratación"
         name: "contratacion"
         file: "_data/contratacion.yml"
@@ -81,7 +80,7 @@ collections:
             widget: "list"
             fields:
               - {label: Language, name: lang, widget: string}
-              - {label: Texto, name: texto, widget: string}
+              - {label: Texto, name: texto, widget: markdown}
 
 
   - label: "Tarifas en Español"
