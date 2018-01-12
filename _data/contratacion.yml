@@ -30,6 +30,7 @@ items:
 
       6. AVEULA a la recepción del importe se pone en marcha, iniciando la
       formalización del paquete.
+    title: Intrucciones de contratación
   - language: en
     texto: >-
       The resolution time for the packages varies depending on their complexity
@@ -60,6 +61,7 @@ items:
 
       6. Upon receipt of the payment, AVUELA sets to work and initiates
       formalization of the package.
+    title: ' Contracting Instructions'
   - language: de
     texto: >-
       Der vertragliche Abschluss der Pakete hängt von ihrer Komplexität und
@@ -90,3 +92,4 @@ items:
 
       6. Bei Empfang der Zahlung beginnt AVEULA mit der Arbeit und Ausführung
       des Pakets.
+    title: ' Anleitungen für den Abschluss von Paketen'
