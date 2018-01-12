@@ -160,7 +160,6 @@ collections:
     slug: "{{slug}}"
     filter: {field: "language", value: "es"}
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "permalink", name: "permalink", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
@@ -177,7 +176,6 @@ collections:
     slug: "{{slug}}"
     filter: {field: "language", value: "en"}
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "permalink", name: "permalink", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
@@ -194,7 +192,6 @@ collections:
     slug: "{{slug}}"
     filter: {field: "language", value: "de"}
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "permalink", name: "permalink", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}

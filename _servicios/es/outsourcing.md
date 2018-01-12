@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Outsourcing
 permalink: /es/servicios/outsourcing
 image: /assets/images/uploads/outsourcing.jpg
