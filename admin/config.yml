@@ -64,14 +64,14 @@ collections:
             name: items
             widget: "list"
             fields:
-              - {label: Language, name: lang,widget: string}
+              - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
               - label: Item
                 name: item
                 widget: list
                 fields:
                   - {label: Title, name: title, widget: string}
                   - {label: Url, name: url, widget: string}
-                  
+
       - label: "Contratación"
         name: "contratacion"
         file: "_data/contratacion.yml"
@@ -80,7 +80,7 @@ collections:
             name: items
             widget: "list"
             fields:
-              - {label: Language, name: lang, widget: string}
+              - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
               - {label: Texto, name: texto, widget: markdown}
 
   - label: "Tarifas en Español"
