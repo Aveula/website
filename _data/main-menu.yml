@@ -6,7 +6,7 @@ items:
         url: /es/blog
       - title: Contacto
         url: /es/contacto
-    lang: es
+    language: es
   - item:
       - title: Services
         url: /en/services
@@ -14,7 +14,7 @@ items:
         url: /en/blog
       - title: Contact
         url: /en/contact
-    lang: en
+    language: en
   - item:
       - title: Dienstleistungen
         url: /de/dienstleistungen
@@ -22,4 +22,4 @@ items:
         url: /de/blog
       - title: Kontakt
         url: /de/kontakt
-    lang: de
+    language: de
