@@ -167,6 +167,7 @@ collections:
       - label: "Paquetes"
         name: "paquetes"
         widget: list
+        required: false
       - {label: "Body", name: "body", widget: "markdown"}
 
   - label: "Servicios en Inglés"
@@ -183,6 +184,7 @@ collections:
       - label: "Paquetes"
         name: "paquetes"
         widget: list
+        required: flase
       - {label: "Body", name: "body", widget: "markdown"}
 
   - label: "Servicios en Alemán"
@@ -199,4 +201,5 @@ collections:
       - label: "Paquetes"
         name: "paquetes"
         widget: list
+        required: false
       - {label: "Body", name: "body", widget: "markdown"}
