@@ -1,5 +1,5 @@
 ---
-title: Resolución de Conflictos
+title: Resolución de conflictos
 price: 200€/hora
 language: es
 order: 0
@@ -14,4 +14,3 @@ item:
       Búsqueda de representantes con formación específica para la resolución del
       conflicto
 ---
-

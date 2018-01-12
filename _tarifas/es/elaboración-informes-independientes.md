@@ -1,5 +1,5 @@
 ---
-title: ' Elaboración informes independientes'
+title: 'Elaboración informes independientes'
 language: es
 order: 0
 item:
@@ -10,4 +10,3 @@ item:
   - description: Inversores interesados en adquirir empresa o negocio
   - description: Instituciones y Organismos Oficiales que necesiten apoyo externo
 ---
-
