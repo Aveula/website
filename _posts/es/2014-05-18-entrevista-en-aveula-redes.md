@@ -8,7 +8,7 @@ tags:
   - entrevistas
 ---
 
-Martes, 8 de abril. Día lluvioso, temporal en toda regla. Gracias a Dios, me desplazo hasta la sede que AVEULA REDES{:.caps} tiene en la calle San Marcial, que al ser un sitio céntrico, me voy resguardando de las inclemencias del tiempo por las calles adyacentes hasta entrar en su lujoso portal.
+Martes, 8 de abril. Día lluvioso, temporal en toda regla. Gracias a Dios, me desplazo hasta la sede que AVEULA REDES{: .caps} tiene en la calle San Marcial, que al ser un sitio céntrico, me voy resguardando de las inclemencias del tiempo por las calles adyacentes hasta entrar en su lujoso portal.
 
 Una vez dentro, me recibe Javier Claveras, director Gerente y Socio de AVEULA{.caps}. Tras las presentaciones oportunas y una vez ubicada en la mesa acristalada de su despacho, empiezo a disparar.
 
