@@ -30,4 +30,4 @@ tags:
 
 ¿Qué sorpresas se ha llevado en su gestión a lo largo de todos estos años?
 : ^
-  La verdad es que no muchas, pero si te puedo contar que ha día de hoy tengo un proyecto parado porque una persona clave para el desarrollo de la página en cuestión no da señales de vida, y mira que hemos hablado con el cliente en varias ocasiones y le han trasladado la importancia y el estado del proyecto; pero estamos en punto muerto. Hay determinados aspectos de una página que simplemente no puedo sacarmelos de la chistera y, es que, la relación con el cliente durante el desarrollo de la página es vital y ha de ser estrecha.
+  La verdad es que no muchas, pero si te puedo contar que a día de hoy tengo un proyecto parado porque una persona clave para el desarrollo de la página en cuestión no da señales de vida, y mira que hemos hablado con el cliente en varias ocasiones y le han trasladado la importancia y el estado del proyecto; pero estamos en punto muerto. Hay determinados aspectos de una página que simplemente no puedo sacarmelos de la chistera y, es que, la relación con el cliente durante el desarrollo de la página es vital y ha de ser estrecha.

@@ -1,6 +1,6 @@
 ---
-title: Presente y futuro del mercado inmobiliario en la Sosta del Sol
-date: 2014-09-05T00:00:00.000Z
+title: Presente y futuro del mercado inmobiliario en la Costa del Sol
+date: 2014-09-05T00:00:00.000
 author: Javier Claveras
 image: /assets/images/uploads/rocio-rodriguez.jpg
 language: es
