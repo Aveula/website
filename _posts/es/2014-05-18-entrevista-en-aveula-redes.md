@@ -38,6 +38,8 @@ Sí, en nuestro caso, siempre es el cliente quien decide, quien tiene la llave d
 
 Tras diez minutos de conversación y una cordial despedida salgo de la oficina, ya tengo el primer artículo que saldrá publicado en la página web. Vuelvo a mirar al cielo y veo que ha dejado de llover, no puedo dejar de pensar que hay una similitud con el fondo de la entrevista: después de la tempestad viene la calma...Y las buenas oportunidades.
 
+---
+
 Eider Serrano actualmente está cursando sus estudios en la Facultad de Deusto, colabora con **AVEULA** en programas de Márketing, publicidad y comunicación directa.
 
 *[AVEULA REDES]: Aveula Redes S.L.
