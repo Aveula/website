@@ -40,7 +40,7 @@ Sí, por supuesto. Dos servicios que han crecido mucho son la **gestión de la m
 ¿Cuál es su lema? Veo que dan mucha importancia al trato directo con el cliente.
 {:.pregunta}
 
-Sí, en nuestro caso, siempre es el cliente quien decide, quien tiene la llave de sus decisiones. Nosotros le ayudamos a esa toma de decisión, por decirlo de una manera sencilla. Hacemos que todo sea más fácil; la confianza entre ambas partes es total, por eso uno de nuestros lemas es: “llegamos hasta donde quiera llegar”. Siempre marca él las metas y sus objetivos.
+Sí, en nuestro caso, siempre es el cliente quien decide, quien tiene la llave de sus decisiones. Nosotros le ayudamos a esa toma de decisión, por decirlo de una manera sencilla. Hacemos que todo sea más fácil; la confianza entre ambas partes es total, por eso uno de nuestros lemas es: <<llegamos hasta donde quiera llegar>>. Siempre marca él las metas y sus objetivos.
 
 Tras diez minutos de conversación y una cordial despedida salgo de la oficina, ya tengo el primer artículo que saldrá publicado en la página web. Vuelvo a mirar al cielo y veo que ha dejado de llover, no puedo dejar de pensar que hay una similitud con el fondo de la entrevista: después de la tempestad viene la calma...Y las buenas oportunidades.
 
