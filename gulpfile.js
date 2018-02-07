@@ -18,8 +18,6 @@ gulp.task('resize-images', () => {
             imageMagick: true
         }))
         .pipe(gulp.dest('assets/images/large'))
-
-    front_end_images
         .pipe(imageResize({
             width: 650,
             height: 487,
@@ -28,8 +26,6 @@ gulp.task('resize-images', () => {
             imageMagick: true
         }))
         .pipe(gulp.dest('assets/images/medium'))
-
-    front_end_images
         .pipe(imageResize({
             width: 300,
             height: 225,
