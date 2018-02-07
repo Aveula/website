@@ -44,8 +44,8 @@ gulp.task('jekyll-clean', function (done) {
   return cp.spawn('bundle', ['exec', 'jekyll', 'clean'], {stdio: 'inherit'}).on('close', done)
 })
 
-gulp.task('jekyll-build', function (done) {
+gulp.task('jekyll-build', ['resize-images','jekyll-clean'], function (done) {
   return cp.spawn('bundle', ['exec', 'jekyll', 'build'], {stdio: 'inherit'}).on('close', done)
 }),
 
-gulp.task('default', ['resize-images','jekyll-clean','jekyll-build'])
+gulp.task('default', ['jekyll-build'])
