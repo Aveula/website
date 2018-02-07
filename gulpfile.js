@@ -15,7 +15,7 @@ gulp.task('resize-images', () => {
             width: 1300,
             height: 975,
             crop: true,
-            upscale: false,
+            upscale: true,
             imageMagick: true
         }))
         .pipe(gulp.dest('assets/images/large'))
@@ -26,7 +26,7 @@ gulp.task('resize-images', () => {
             width: 650,
             height: 487,
             crop: true,
-            upscale: false,
+            upscale: true,
             imageMagick: true
         }))
         .pipe(gulp.dest('assets/images/medium'))
@@ -38,7 +38,7 @@ gulp.task('resize-images', () => {
             width: 200,
             height: 150,
             crop: true,
-            upscale: false,
+            upscale: true,
             imageMagick: true
         }))
         .pipe(gulp.dest('assets/images/small'))
