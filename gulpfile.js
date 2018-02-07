@@ -10,7 +10,6 @@ gulp.task('resize-images', () => {
     const front_end_images = gulp.src('assets/images/uploads/*')
 
     front_end_images
-        .pipe(newer('assets/images/large'))
         .pipe(imageResize({
             width: 1300,
             height: 975,
@@ -21,7 +20,6 @@ gulp.task('resize-images', () => {
         .pipe(gulp.dest('assets/images/large'))
 
     front_end_images
-        .pipe(newer('assets/images/medium'))
         .pipe(imageResize({
             width: 650,
             height: 487,
@@ -33,7 +31,6 @@ gulp.task('resize-images', () => {
 
 
     front_end_images
-        .pipe(newer('assets/images/small'))
         .pipe(imageResize({
             width: 300,
             height: 225,
