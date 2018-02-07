@@ -16,6 +16,9 @@ Servicios completos
 * **Diversificación de activos** a través de nuestras entidades financieras colaboradoras, todas ellas de máxima garantía y con unos niveles de solvencia superiores a la media del sector financiero, según los últimos test del Banco Central Europeo.
 * **Gestión de Patrimonios** a través de nuestro convenio con QRENTA, agencia de valores con más de 20 años de experiencia y un capital superior a los 450 Millones de euros, con una rentabilidad superior a la del mercado en su Fondo Moderado y superando reiteradamente al <span lang="en">benchmark</span>. Contrato de Gestión a través de miembro EFPA España y 23 años de experiencia en el sector financiero nacional.
 
+*[RADAR]: Radar
+{:.caps}
+
 *[QRENTA]: QRENTA
 {:.caps}
 
