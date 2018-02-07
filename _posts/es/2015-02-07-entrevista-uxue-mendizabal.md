@@ -2,7 +2,7 @@
 title: Entrevista a Uxue Mendizábal
 date: 2015-02-07T00:00:00.000Z
 author: Javier Claveras
-image: /assets/images/uploads/iñaki-garcia.jpg
+image: /assets/images/uploads/uxue-mendizabal.jpg
 language: es
 tags:
   - entrevistas
