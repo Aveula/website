@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Aveula Redes
+email: aveula@aveula.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Aveula Redes está diseñada para dar servicio a las empresas, resolviendo sus problemas de focalización, bien en mercados que al no ser conocidos, o bien en temas que por ser muy específicos, no están cualificados para resolver, y necesitan de alguien de confianza que les aporte conocimientos y trabajo donde ellos no llegan.
+
+  Contamos con personal de máxima confianza y con contrastada experiencia, que, en la mayoría de los casos, superan los 20 años de experiencia en sus sectores, y lo que es más importante, la capacidad de resolver cualquier problema en tiempo y forma ágil y flexible.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
