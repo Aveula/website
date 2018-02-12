@@ -1,6 +1,6 @@
 ---
 autor: Peio Tomé
-cargo: '  Managing Director de MARTIMEDIC'
+cargo: 'Managing Director de MARTIMEDIC'
 logo: /assets/images/uploads/martimedic.png
 ---
 Fue una experiencia correcta y profesional. La intermediación de Aveula fue neutral para ambas partes y la sensatez aplicada simplificó y ayudó en varias fases de la operación.
