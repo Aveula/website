@@ -247,3 +247,38 @@ collections:
       - {label: "Icon", name: "icon", widget: "string"}
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - label: "Principios en Inglés"
+    name: "english_values"
+    folder: "_principios/en"
+    create: true
+    slug: "{{slug}}"
+    filter: {field: "language", value: "en"}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Icon", name: "icon", widget: "string"}
+      - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - label: "Principios en Alemán"
+    name: "deutsch_values"
+    folder: "_principios/de"
+    create: true
+    slug: "{{slug}}"
+    filter: {field: "language", value: "de"}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Icon", name: "icon", widget: "string"}
+      - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+- label: "Testimonios"
+  name: "testimonios"
+  folder: "_testimonios"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - {label: "Autor", name: "autor", widget: "string"}
+    - {label: "Cargo", name: "cargo", widget: "string"}
+    - {label: "Logo", name: "logo", widget: "image"}
+    - {label: "Body", name: "body", widget: "markdown"}

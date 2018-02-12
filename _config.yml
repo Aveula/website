@@ -45,6 +45,7 @@ collections:
   trabajo:
   traspaso:
   principios:
+  testimonios:
 defaults:
   - scope:
       path: ""
