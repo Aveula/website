@@ -276,7 +276,7 @@ collections:
     name: "testimonios"
     folder: "_testimonios"
     create: true
-    slug: "{{slug}}"
+    slug: "{{autor}}"
     fields:
       - {label: "Autor", name: "autor", widget: "string"}
       - {label: "Cargo", name: "cargo", widget: "string"}
