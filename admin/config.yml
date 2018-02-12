@@ -235,3 +235,15 @@ collections:
     slug: {{ slug }}
     fields:
       - {label: "Title", name: "title", widget: "string"}
+
+  - label: "Principios en Español"
+    name: "spanish_values"
+    folder: "_principios/es"
+    create: true
+    slug: "{{slug}}"
+    filter: {field: "language", value: "es"}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Icon", name: "icon", widget: "string"}
+      - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+      - {label: "Body", name: "body", widget: "markdown"}
