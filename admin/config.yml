@@ -272,13 +272,13 @@ collections:
       - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
       - {label: "Body", name: "body", widget: "markdown"}
 
-- label: "Testimonios"
-  name: "testimonios"
-  folder: "_testimonios"
-  create: true
-  slug: "{{slug}}"
-  fields:
-    - {label: "Autor", name: "autor", widget: "string"}
-    - {label: "Cargo", name: "cargo", widget: "string"}
-    - {label: "Logo", name: "logo", widget: "image"}
-    - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Testimonios"
+    name: "testimonios"
+    folder: "_testimonios"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Autor", name: "autor", widget: "string"}
+      - {label: "Cargo", name: "cargo", widget: "string"}
+      - {label: "Logo", name: "logo", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
