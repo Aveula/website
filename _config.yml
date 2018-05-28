@@ -35,8 +35,10 @@ include:
   - _pages
 
 # Collections
-#colelctions_dir: content
+collections_dir: content
 collections:
+  paginas:
+    output: true
   tarifas:
   servicios:
     output: true
