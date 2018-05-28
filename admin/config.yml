@@ -7,7 +7,7 @@ media_folder: "assets/images/uploads"
 collections:
   - label: "Blog en Español"
     name: "spanish_posts"
-    folder: "_posts/es"
+    folder: "content/_posts/es"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     filter: {field: "language", value: "es"}
@@ -23,7 +23,7 @@ collections:
 
   - label: "Blog en Inglés"
     name: "english_posts"
-    folder: "_posts/en"
+    folder: "content/_posts/en"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     filter: {field: "language", value: "en"}
@@ -39,7 +39,7 @@ collections:
 
   - label: "Blog en Alemán"
     name: "deutsch_posts"
-    folder: "_posts/de"
+    folder: "content/_posts/de"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     filter: {field: "language", value: "de"}
@@ -86,7 +86,7 @@ collections:
 
   - label: "Tarifas en Español"
     name: "spanish_pricing"
-    folder: "_tarifas/es"
+    folder: "content/_tarifas/es"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "es"}
@@ -109,7 +109,7 @@ collections:
 
   - label: "Tarifas en Inglés"
     name: "english_pricing"
-    folder: "_tarifas/en"
+    folder: "content/_tarifas/en"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "en"}
@@ -132,7 +132,7 @@ collections:
 
   - label: "Tarifas en Alemán"
     name: "deutsch_pricing"
-    folder: "_tarifas/de"
+    folder: "content/_tarifas/de"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "de"}
@@ -155,7 +155,7 @@ collections:
 
   - label: "Servicios en Español"
     name: "spanish_services"
-    folder: "_servicios/es"
+    folder: "content/_servicios/es"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "es"}
@@ -172,7 +172,7 @@ collections:
 
   - label: "Servicios en Inglés"
     name: "english_services"
-    folder: "_servicios/en"
+    folder: "content/_servicios/en"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "en"}
@@ -189,7 +189,7 @@ collections:
 
   - label: "Servicios en Alemán"
     name: "deutsch_services"
-    folder: "_servicios/de"
+    folder: "content/_servicios/de"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "de"}
@@ -206,7 +206,7 @@ collections:
 
   - label: "Franquicias"
     name: "franquicias"
-    folder: "_franquicias"
+    folder: "content/_franquicias"
     create: true
     slug: {{ slug }}
     fields:
@@ -214,7 +214,7 @@ collections:
 
   - label: "Negocios"
     name: "negocios"
-    folder: "_negocios"
+    folder: "content/_negocios"
     create: true
     slug: {{ slug }}
     fields:
@@ -222,7 +222,7 @@ collections:
 
   - label: "Trabajos"
     name: "trabajos"
-    folder: "_trabajos"
+    folder: "content/_trabajos"
     create: true
     slug: {{ slug }}
     fields:
@@ -230,7 +230,7 @@ collections:
 
   - label: "Traspasos"
     name: "traspasos"
-    folder: "_traspasos"
+    folder: "content/_traspasos"
     create: true
     slug: {{ slug }}
     fields:
@@ -238,7 +238,7 @@ collections:
 
   - label: "Principios en Español"
     name: "spanish_values"
-    folder: "_principios/es"
+    folder: "content/_principios/es"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "es"}
@@ -250,7 +250,7 @@ collections:
 
   - label: "Principios en Inglés"
     name: "english_values"
-    folder: "_principios/en"
+    folder: "content/_principios/en"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "en"}
@@ -262,7 +262,7 @@ collections:
 
   - label: "Principios en Alemán"
     name: "deutsch_values"
-    folder: "_principios/de"
+    folder: "content/_principios/de"
     create: true
     slug: "{{slug}}"
     filter: {field: "language", value: "de"}
@@ -274,7 +274,7 @@ collections:
 
   - label: "Testimonios"
     name: "testimonios"
-    folder: "_testimonios"
+    folder: "content/_testimonios"
     create: true
     slug: "{{autor}}"
     fields:
