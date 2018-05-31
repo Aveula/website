@@ -177,7 +177,7 @@ collections:
               label: "Tarifa",
               name: "tarifa",
               widget: "relation",
-              collection: "tarifas",
+              collection: "spanish_pricing",
               searchFields: ["title"],
               valueField: "title",
               displayFields: "title"
