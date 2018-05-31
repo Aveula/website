@@ -180,7 +180,7 @@ collections:
               collection: "spanish_pricing",
               searchFields: ["title"],
               valueField: "title",
-              displayFields: "title"
+              displayFields: ["title"]
               }
 
   - label: "Servicios en Inglés"
