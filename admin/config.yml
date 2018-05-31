@@ -169,19 +169,6 @@ collections:
         widget: list
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Tarifas"
-        name: "tarifas"
-        widget: list
-        field:
-          - {
-              label: "Tarifa",
-              name: "tarifa",
-              widget: "relation",
-              collection: "spanish_pricing",
-              searchFields: ["title"],
-              valueField: "title",
-              displayFields: ["title"]
-              }
 
   - label: "Servicios en Inglés"
     name: "english_services"
