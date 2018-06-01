@@ -84,6 +84,18 @@ collections:
               - {label: "Title", name: "title", widget: "string"}
               - {label: Texto, name: texto, widget: markdown}
 
+      - label: "Acerca de"
+        name: "acercade"
+        file: "_data/acerca-de.yml"
+        fields:
+          - label: Items
+            name: items
+            widget: "list"
+            fields:
+              - {label: "Language", name: "language", widget: "select", options: ["es", "en", "de"]}
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: Texto, name: texto, widget: markdown}
+
   - label: "Tarifas en Español"
     name: "spanish_pricing"
     folder: "content/_tarifas/es"
