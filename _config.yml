@@ -28,7 +28,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 #theme: minima
-remote_theme: Aveula/twd-jt-aveula
+remote_theme: Aveula/twd-jt-aveula-sg
 plugins:
   - jekyll-feed
 include:
