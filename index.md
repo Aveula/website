@@ -7,7 +7,7 @@ head-includes:
   - netlify-identity-widget.html
 content-includes:
   - section-servicios.html
-  - section.testimonios.html
+  - section-testimonios.html
   - section-values.html
 foot-includes:
   - netlify-redirection.html
